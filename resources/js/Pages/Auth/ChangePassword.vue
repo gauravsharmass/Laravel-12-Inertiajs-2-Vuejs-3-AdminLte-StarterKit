@@ -59,7 +59,7 @@ const handleChangePassword = () => {
                                         label="Password"
                                         id="password_confirmation"
                                         name="password_confirmation"
-                                        type="password_confirmation"
+                                        type="password"
                                         v-model="form.password_confirmation"
                                     />
                                     <label for="loginPassword"
