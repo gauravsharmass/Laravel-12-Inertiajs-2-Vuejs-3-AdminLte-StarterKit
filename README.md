@@ -1,4 +1,4 @@
-# Laravel 12 + Inertia.js 2 Starter Kit
+# Laravel-12-Inertiajs-2-Vuejs-3-AdminLte 4-StarterKit
 A robust, production-ready starter kit featuring Laravel 12, Inertia.js 2, and Vue.js 3, styled with the AdminLte dashboard template. This kit includes a pre-configured Role-Based Access Control (RBAC) system to jumpstart your application development.
 
 # 🚀 Features
