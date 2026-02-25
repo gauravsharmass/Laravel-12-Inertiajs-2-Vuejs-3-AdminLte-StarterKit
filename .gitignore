@@ -4,6 +4,8 @@
 .env.backup
 .env.production
 .phpactor.json
+.editorconfig
+.README.md
 .phpunit.result.cache
 /.fleet
 /.idea
